@@ -1,2 +1,2 @@
 # NSTU_admission
-admission test sean searching
+admission test seat plan searching
